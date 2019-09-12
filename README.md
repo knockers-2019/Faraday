@@ -6,8 +6,9 @@
 *Jonas Manley*  
 *Mikkel Ertbjerg*  
 *Nikolaj Jensen*  
-*Jake Mogensen*  
-*Hassan RH*  
+*Jake Mogensen*
+*Hassan RH*
+  
 --- 
 **_1. Pick Up_**   
 Rental cars from Faraday can be picked up from airports or hotels.Airports are identified by their three letter IATA airport code. Hotels are identified by a 6 digit number.  Hotels have names, addresses, andstar ratings as well.Rental cars are identified by their license plate, ten alphanumeric characterscovers the license plates in the countries where Faraday operates. Furthermorerental  cars  has  a  type  from  ’A’  to  ’F’  that  specifies  the  price  and  number  ofseats.The driver is identified by his or her drivers license number and name as inthe passport.  The driver must be at least 25 years of age.
