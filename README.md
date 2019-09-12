@@ -1,5 +1,11 @@
 # Faraday
 *The Faraday Car Rental Company*
+**_Group Members_**  
+*Christoffer Dunk Ring*  
+*Nikolai Christiansen*  
+*Jonas Manley*  
+*Mikkel Ertbjerg*  
+*Nikolaj Jensen*  
 
 --- 
 **_1. Pick Up_**   
