@@ -1,5 +1,6 @@
 # Faraday
-*The Faraday Car Rental CompanyThe  welknown  car  rental  company  namedFaradayhas  decided  to  create  anonline booking system for rental cars.  Access to the system will be through aweb service ment for third party solutions, and through a web application mentfor employees in travel agencies.*
+*The Faraday Car Rental Company*
+
 --- 
 **_1. Pick Up_**   
 Rental cars from Faraday can be picked up from airports or hotels.Airports are identified by their three letter IATA airport code1.Hotels are identified by a 6 digit number.  Hotels have names, addresses, andstar ratings as well.Rental cars are identified by their license plate, ten alphanumeric characterscovers the license plates in the countries where Faraday operates.   
