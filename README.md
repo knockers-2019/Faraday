@@ -1,6 +1,6 @@
 # Faraday
 *The Faraday Car Rental Company*  
-**_Group Members_**  
+### Group Members  
 *Christoffer Dunk Ring*  
 *Nikolai Christiansen*  
 *Jonas Manley*  
