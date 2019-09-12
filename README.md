@@ -6,8 +6,8 @@
 *Jonas Manley*  
 *Mikkel Ertbjerg*  
 *Nikolaj Jensen*  
-*Jake Mogensen*
-*Hassan RH*
+*Jake Mogensen*  
+*Hassan RH*  
   
 --- 
 **_1. Pick Up_**   
