@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>470</x>
+      <y>200</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>_:System_</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>510</x>
+      <y>220</y>
+      <w>30</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;160.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>30</x>
+      <y>130</y>
+      <w>80</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Employee</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>60</x>
+      <y>220</y>
+      <w>30</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;170.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>60</x>
+      <y>280</y>
+      <w>480</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;&gt;&gt;
+r1pos=-13,-4
+showAvailableCars(p, t)</panel_attributes>
+    <additional_attributes>10.0;20.0;460.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>60</x>
+      <y>320</y>
+      <w>480</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;.
+r1pos=-13,-4
+list of available cars</panel_attributes>
+    <additional_attributes>10.0;20.0;460.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>630</x>
+      <y>120</y>
+      <w>410</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Contract C01
+--
+Operation:			showAvailableCars(p: Place, t: Time)
+Cross 				References: Show Available Cars
+Preconditions: 	- Atleast one car exsists in the systems
+Postconditions:   - None
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
