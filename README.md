@@ -1,4 +1,4 @@
-# Faraday
+# Large Systems Development Assignment
 *The Faraday Car Rental Company*  
 ### Group Members  
 *Christoffer Dunk Ring*  
