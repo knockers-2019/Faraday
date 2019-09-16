@@ -7,7 +7,7 @@
 *Mikkel Ertbjerg*  
 *Nikolaj Jensen*  
 *Jake Mogensen*  
-*Hassan RH*  
+*Hassan Raza Hussaln*  
   
 --- 
 **_1. Pick Up_**   
