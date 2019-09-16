@@ -1,6 +1,6 @@
 # Faraday Usecases
 
-**_Use Cases_**
+**_Use Cases_**  
 [Google Docs](https://docs.google.com/document/d/1I_2hVj5Oz-2WgbzDoKkLNzY6xRujO_hPqC7pevNv8YE/edit?usp=sharing)
 * *UC_1.01 - Create Booking*
 * *UC_1.02 - Cancel Booking*
