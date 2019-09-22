@@ -6,7 +6,7 @@ class Bookings
     /// </summary>
     /// <param name="driversLicense">The drivers license number to get a booking.</param>
     /// <returns>Returns a list of bookings.</returns>
-    public List<Booking> ShowBookings(string driversLicense)
+    public List<Bookings> ShowBookings(string driversLicense)
     {   
 
     }
