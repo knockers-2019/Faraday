@@ -8,7 +8,7 @@
 * *UC_1.04 - Show available cars*
 
 **_Use Case Diagram_**  
-![use case diagram](https://github.com/knockers-2019/Faraday/blob/master/Documents/Use%20Cases/usecase%20diagram.png)
+![use case diagram](https://github.com/knockers-2019/Faraday/blob/master/Documents/Use%20Cases/UseCaseDiagram.png)
 
 
 
