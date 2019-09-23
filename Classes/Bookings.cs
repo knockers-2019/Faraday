@@ -17,5 +17,5 @@ public interface IBooking
     /// Creates a Booking, also the constructor of Booking
     /// </summary>
     /// <param name="booking">The booking that is to be created</param>
-    public void Booking CreateBooking(Booking booking) {}
+    public Booking CreateBooking(Booking booking) {}
 }
