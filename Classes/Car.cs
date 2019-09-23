@@ -1,6 +1,8 @@
+
+
 class Car
 {
-
+  public enum CarType {A, B, C, D, E, F}
   /// <summary>
   /// The mode class of a car
   /// </summary>
@@ -9,10 +11,12 @@ class Car
   
   private string carId;
   private string licensePlate;
+  private CarType carType;
 
-  public Car(string carId, string licensePlate) {
+  public Car(string carId, string licensePlate, CarType carType) {
     this.carId = carId;
     this.licensePlate = licensePlate;
+    this.carType = carType;
   }
 
   ///Empty constructor
@@ -23,6 +27,7 @@ class Car
   ///Getters and setters
   public string carId {get; set;}
   public string licensePlate {get; set;}
+  public CarType CarType{get; set;}
 
 }
 
