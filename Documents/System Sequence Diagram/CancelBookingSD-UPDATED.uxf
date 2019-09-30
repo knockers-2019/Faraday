@@ -5,7 +5,7 @@
     <id>Relation</id>
     <coordinates>
       <x>504</x>
-      <y>495</y>
+      <y>414</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -17,7 +17,7 @@ getBookings(string driverLicense)</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>504</x>
-      <y>531</y>
+      <y>450</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -29,7 +29,7 @@ List&lt;Booking&gt;</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>504</x>
-      <y>594</y>
+      <y>513</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -41,7 +41,7 @@ cancelBooking(int bookingId)</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>504</x>
-      <y>630</y>
+      <y>549</y>
       <w>243</w>
       <h>36</h>
     </coordinates>
@@ -53,18 +53,18 @@ confirmation</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>495</x>
-      <y>549</y>
+      <y>567</y>
       <w>27</w>
-      <h>81</h>
+      <h>63</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>81</x>
-      <y>639</y>
+      <y>558</y>
       <w>432</w>
       <h>36</h>
     </coordinates>
@@ -77,7 +77,7 @@ summary</panel_attributes>
     <id>UMLActor</id>
     <coordinates>
       <x>54</x>
-      <y>396</y>
+      <y>315</y>
       <w>72</w>
       <h>99</h>
     </coordinates>
@@ -88,7 +88,7 @@ summary</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>81</x>
-      <y>477</y>
+      <y>396</y>
       <w>27</w>
       <h>243</h>
     </coordinates>
@@ -99,7 +99,7 @@ summary</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>81</x>
-      <y>486</y>
+      <y>405</y>
       <w>432</w>
       <h>36</h>
     </coordinates>
@@ -112,7 +112,7 @@ Employee initiaze list of bookings </panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>459</x>
-      <y>450</y>
+      <y>369</y>
       <w>90</w>
       <h>27</h>
     </coordinates>
@@ -122,19 +122,8 @@ Employee initiaze list of bookings </panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>495</x>
-      <y>504</y>
-      <w>18</w>
-      <h>54</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLGeneric</id>
-    <coordinates>
       <x>693</x>
-      <y>450</y>
+      <y>369</y>
       <w>90</w>
       <h>27</h>
     </coordinates>
@@ -145,7 +134,7 @@ Employee initiaze list of bookings </panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>729</x>
-      <y>468</y>
+      <y>387</y>
       <w>27</w>
       <h>63</h>
     </coordinates>
@@ -156,7 +145,7 @@ Employee initiaze list of bookings </panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>495</x>
-      <y>468</y>
+      <y>387</y>
       <w>27</w>
       <h>54</h>
     </coordinates>
@@ -164,21 +153,10 @@ Employee initiaze list of bookings </panel_attributes>
     <additional_attributes>10.0;10.0;10.0;40.0</additional_attributes>
   </element>
   <element>
-    <id>UMLGeneric</id>
-    <coordinates>
-      <x>495</x>
-      <y>603</y>
-      <w>18</w>
-      <h>54</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
     <id>Relation</id>
     <coordinates>
       <x>81</x>
-      <y>540</y>
+      <y>459</y>
       <w>432</w>
       <h>36</h>
     </coordinates>
@@ -191,7 +169,7 @@ list of bookings</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>81</x>
-      <y>585</y>
+      <y>504</y>
       <w>432</w>
       <h>36</h>
     </coordinates>
@@ -204,7 +182,7 @@ Employee choose to cancel the booking</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>729</x>
-      <y>513</y>
+      <y>432</y>
       <w>18</w>
       <h>36</h>
     </coordinates>
@@ -215,7 +193,7 @@ Employee choose to cancel the booking</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>729</x>
-      <y>540</y>
+      <y>459</y>
       <w>27</w>
       <h>72</h>
     </coordinates>
@@ -226,11 +204,33 @@ Employee choose to cancel the booking</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>729</x>
-      <y>594</y>
+      <y>513</y>
       <w>18</w>
       <h>54</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>495</x>
+      <y>423</y>
+      <w>18</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>729</x>
+      <y>558</y>
+      <w>27</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
   </element>
 </diagram>

@@ -4,7 +4,7 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>520</x>
+      <x>440</x>
       <y>220</y>
       <w>100</w>
       <h>30</h>
@@ -15,7 +15,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>560</x>
+      <x>480</x>
       <y>240</y>
       <w>30</w>
       <h>80</h>
@@ -26,7 +26,7 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>80</x>
+      <x>0</x>
       <y>150</y>
       <w>80</w>
       <h>110</h>
@@ -37,7 +37,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>110</x>
+      <x>30</x>
       <y>240</y>
       <w>30</w>
       <h>190</h>
@@ -48,7 +48,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>110</x>
+      <x>30</x>
       <y>280</y>
       <w>470</w>
       <h>40</h>
@@ -61,7 +61,7 @@ Employee initialize show available cars</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>110</x>
+      <x>30</x>
       <y>340</y>
       <w>470</w>
       <h>40</h>
@@ -74,7 +74,7 @@ list of available cars</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>570</x>
+      <x>490</x>
       <y>300</y>
       <w>340</w>
       <h>40</h>
@@ -86,7 +86,7 @@ showAvailableCars(string place, datetime time)</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>850</x>
+      <x>770</x>
       <y>220</y>
       <w>100</w>
       <h>30</h>
@@ -97,7 +97,7 @@ showAvailableCars(string place, datetime time)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>890</x>
+      <x>810</x>
       <y>240</y>
       <w>30</w>
       <h>100</h>
@@ -108,7 +108,7 @@ showAvailableCars(string place, datetime time)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>570</x>
+      <x>490</x>
       <y>330</y>
       <w>340</w>
       <h>40</h>
@@ -120,7 +120,7 @@ List&lt;Car&gt;</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>560</x>
+      <x>480</x>
       <y>300</y>
       <w>20</w>
       <h>70</h>
@@ -131,10 +131,10 @@ List&lt;Car&gt;</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>890</x>
+      <x>810</x>
       <y>320</y>
       <w>20</w>
-      <h>40</h>
+      <h>30</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -142,12 +142,23 @@ List&lt;Car&gt;</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>890</x>
-      <y>350</y>
+      <x>810</x>
+      <y>340</y>
       <w>30</w>
-      <h>80</h>
+      <h>90</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>480</x>
+      <y>360</y>
+      <w>30</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
   </element>
 </diagram>

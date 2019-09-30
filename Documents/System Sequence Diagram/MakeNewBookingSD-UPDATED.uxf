@@ -4,8 +4,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>350</x>
-      <y>133</y>
+      <x>357</x>
+      <y>119</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -15,8 +15,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>378</x>
-      <y>147</y>
+      <x>385</x>
+      <y>133</y>
       <w>21</w>
       <h>70</h>
     </coordinates>
@@ -26,8 +26,8 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>35</x>
-      <y>84</y>
+      <x>42</x>
+      <y>70</y>
       <w>56</w>
       <h>77</h>
     </coordinates>
@@ -37,19 +37,19 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>56</x>
-      <y>147</y>
+      <x>63</x>
+      <y>133</y>
       <w>21</w>
-      <h>406</h>
+      <h>434</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;560.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;600.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>56</x>
-      <y>189</y>
+      <x>63</x>
+      <y>175</y>
       <w>336</w>
       <h>28</h>
     </coordinates>
@@ -61,8 +61,8 @@ Employee initiaze make booking</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>56</x>
-      <y>273</y>
+      <x>63</x>
+      <y>259</y>
       <w>336</w>
       <h>28</h>
     </coordinates>
@@ -74,8 +74,8 @@ Employee choose a pickup place and time</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>56</x>
-      <y>238</y>
+      <x>63</x>
+      <y>224</y>
       <w>336</w>
       <h>28</h>
     </coordinates>
@@ -86,8 +86,8 @@ list of possible places where you can rent a car from</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>56</x>
-      <y>329</y>
+      <x>63</x>
+      <y>315</y>
       <w>336</w>
       <h>28</h>
     </coordinates>
@@ -98,8 +98,8 @@ list of available cars</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>56</x>
-      <y>364</y>
+      <x>63</x>
+      <y>350</y>
       <w>336</w>
       <h>28</h>
     </coordinates>
@@ -111,8 +111,8 @@ Employee choose a car from available car list</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>56</x>
-      <y>518</y>
+      <x>63</x>
+      <y>504</y>
       <w>336</w>
       <h>28</h>
     </coordinates>
@@ -123,8 +123,8 @@ summary</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>56</x>
-      <y>392</y>
+      <x>63</x>
+      <y>378</y>
       <w>336</w>
       <h>28</h>
     </coordinates>
@@ -136,8 +136,8 @@ Customer informations input</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>56</x>
-      <y>434</y>
+      <x>63</x>
+      <y>420</y>
       <w>336</w>
       <h>28</h>
     </coordinates>
@@ -149,8 +149,8 @@ Employee initiaze a new booking</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>581</x>
-      <y>133</y>
+      <x>588</x>
+      <y>119</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -158,21 +158,10 @@ Employee initiaze a new booking</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>378</x>
-      <y>245</y>
-      <w>21</w>
-      <h>63</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
-  </element>
-  <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1092</x>
-      <y>14</y>
+      <x>1099</x>
+      <y>0</y>
       <w>70</w>
       <h>21</h>
     </coordinates>
@@ -182,52 +171,19 @@ Employee initiaze a new booking</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>378</x>
-      <y>203</y>
-      <w>14</w>
-      <h>49</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLClass</id>
-    <coordinates>
-      <x>378</x>
-      <y>287</y>
-      <w>14</w>
-      <h>56</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLClass</id>
-    <coordinates>
-      <x>378</x>
-      <y>371</y>
-      <w>14</w>
-      <h>161</h>
-    </coordinates>
-    <panel_attributes/>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>378</x>
-      <y>336</y>
-      <w>21</w>
-      <h>49</h>
-    </coordinates>
-    <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
       <x>385</x>
-      <y>196</y>
+      <y>189</y>
+      <w>14</w>
+      <h>329</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>392</x>
+      <y>182</y>
       <w>238</w>
       <h>28</h>
     </coordinates>
@@ -239,8 +195,8 @@ GetAvailablePlaces()</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>609</x>
-      <y>203</y>
+      <x>616</x>
+      <y>189</y>
       <w>14</w>
       <h>49</h>
     </coordinates>
@@ -250,8 +206,8 @@ GetAvailablePlaces()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>147</y>
+      <x>616</x>
+      <y>133</y>
       <w>21</w>
       <h>70</h>
     </coordinates>
@@ -261,8 +217,8 @@ GetAvailablePlaces()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>385</x>
-      <y>231</y>
+      <x>392</x>
+      <y>217</y>
       <w>238</w>
       <h>28</h>
     </coordinates>
@@ -273,8 +229,8 @@ List&lt;place&gt;</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>385</x>
-      <y>287</y>
+      <x>392</x>
+      <y>273</y>
       <w>238</w>
       <h>28</h>
     </coordinates>
@@ -286,8 +242,8 @@ RegisterPickupPlace(string place, datetime time)</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>609</x>
-      <y>294</y>
+      <x>616</x>
+      <y>280</y>
       <w>14</w>
       <h>49</h>
     </coordinates>
@@ -297,8 +253,8 @@ RegisterPickupPlace(string place, datetime time)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>245</y>
+      <x>616</x>
+      <y>231</y>
       <w>21</w>
       <h>63</h>
     </coordinates>
@@ -308,8 +264,8 @@ RegisterPickupPlace(string place, datetime time)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>385</x>
-      <y>322</y>
+      <x>392</x>
+      <y>308</y>
       <w>231</w>
       <h>28</h>
     </coordinates>
@@ -320,8 +276,8 @@ List&lt;Car&gt;</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>609</x>
-      <y>336</y>
+      <x>616</x>
+      <y>322</y>
       <w>21</w>
       <h>140</h>
     </coordinates>
@@ -331,8 +287,8 @@ List&lt;Car&gt;</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>609</x>
-      <y>462</y>
+      <x>616</x>
+      <y>448</y>
       <w>14</w>
       <h>49</h>
     </coordinates>
@@ -342,8 +298,8 @@ List&lt;Car&gt;</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>385</x>
-      <y>448</y>
+      <x>392</x>
+      <y>434</y>
       <w>238</w>
       <h>42</h>
     </coordinates>
@@ -356,13 +312,35 @@ datetime Pickuptime, datetime Delivery time)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>385</x>
-      <y>490</y>
+      <x>392</x>
+      <y>476</y>
       <w>231</w>
       <h>28</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;.
 True</panel_attributes>
     <additional_attributes>10.0;20.0;310.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>616</x>
+      <y>490</y>
+      <w>21</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>385</x>
+      <y>511</y>
+      <w>21</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
   </element>
 </diagram>

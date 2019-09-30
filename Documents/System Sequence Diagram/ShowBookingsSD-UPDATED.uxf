@@ -75,10 +75,10 @@ List&lt;booking&gt;</panel_attributes>
       <x>510</x>
       <y>350</y>
       <w>30</w>
-      <h>90</h>
+      <h>100</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
