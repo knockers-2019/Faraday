@@ -41,6 +41,7 @@ public interface IBooking
     /// - Time and place has been associated with b
     /// Postconditions:	- car is associated with b
     ///</summary>
+    ///<returns>Nothing</returns>
     ///<param name="car"></param>
     public void RegisterCar(Car car);
 
@@ -54,6 +55,7 @@ public interface IBooking
     /// - Customer cust is registered
     /// - cust is associated with b
     ///</summary>
+    ///<returns>Nothing</returns>
     ///<param name="customer"></param>
     public void RegisterCustomer(Customer customer);
 
@@ -70,6 +72,7 @@ public interface IBooking
     /// - A summary of the booking is returned
     /// - b is persisted in the database
     /// </summary>
+    /// <returns>Nothing</returns>
     /// <param name="booking">The booking object that is initialzed</param>
     public Booking CreateBooking(Booking booking);
 
@@ -97,6 +100,18 @@ public interface IBooking
     /// - The selected booking has been marked as canceled
     /// - A summary of the action is returned
     /// </summary>
+    /// <returns>Nothing</returns>
     /// <param name="bookingId">The unique Id for a booking</param>
     public void CancelBooking(int bookingId);
+
+    /// <summary>
+    /// Operation: ShowAvailableCars(string place, DateTime time)
+    /// Cross References: Show available cars
+    /// Preconditions:
+    /// - atleast one car exsists in the system
+    /// Postconditions: None
+    /// </summary>
+    /// <returns>Returns a list of available cars.</returns>
+    public List<Car> ShowAvailableCars(string place, DateTime time);
+
 }
