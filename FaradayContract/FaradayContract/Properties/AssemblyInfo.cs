@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Faraday Contract")]
+[assembly: AssemblyTitle("FaradayContract")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Faraday Contract")]
+[assembly: AssemblyProduct("FaradayContract")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("01cbe774-c194-4349-9a85-8074a1332f44")]
+[assembly: Guid("00cec7ee-b573-45be-adff-a66ed5b7f78a")]
 
 // Version information for an assembly consists of the following four values:
 //

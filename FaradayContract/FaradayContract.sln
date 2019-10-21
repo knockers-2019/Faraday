@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faraday Contract", "Faraday Contract\Faraday Contract.csproj", "{01CBE774-C194-4349-9A85-8074A1332F44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaradayContract", "FaradayContract\FaradayContract.csproj", "{00CEC7EE-B573-45BE-ADFF-A66ED5B7F78A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{01CBE774-C194-4349-9A85-8074A1332F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{01CBE774-C194-4349-9A85-8074A1332F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{01CBE774-C194-4349-9A85-8074A1332F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{01CBE774-C194-4349-9A85-8074A1332F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CEC7EE-B573-45BE-ADFF-A66ED5B7F78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CEC7EE-B573-45BE-ADFF-A66ED5B7F78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CEC7EE-B573-45BE-ADFF-A66ED5B7F78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CEC7EE-B573-45BE-ADFF-A66ED5B7F78A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D012A052-3A0E-4DA4-A014-DC9AB0C0E044}
+		SolutionGuid = {05FE2116-114E-4792-B259-FA3B21792FCE}
 	EndGlobalSection
 EndGlobal

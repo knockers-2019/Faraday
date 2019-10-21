@@ -4,10 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Faraday_Contract
+namespace FaradayContract
 {
-
-
     public class Car
     {
         public enum CarType { A, B, C, D, E, F }
@@ -42,7 +40,4 @@ namespace Faraday_Contract
 
 
     }
-
-
-
 }
