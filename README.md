@@ -6,9 +6,9 @@
 *Jonas Manley*  
 *Mikkel Ertbjerg*  
 *Nikolaj Jensen*  
-*Jake Mogensen*  
+~~*Jake Mogensen*~~  
 *Hassan Raza Hussaln*  
-*Ian Frost*
+~~*Ian Frost*~~
   
 --- 
 **_1. Pick Up_**   
