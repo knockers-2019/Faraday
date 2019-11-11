@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: '**/*.sln'
+  solution: '/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
@@ -37,9 +37,9 @@ steps:
 - task: CopyFiles@1
   inputs:
     SourceFolder: '$(Build.SourcesDirectory)'
-    Contents: '**/$(BuildConfiguration)/**/?(*.exe|*.dll|*.pdb)'
+    Contents: '/$(BuildConfiguration)//?(.exe|.dll|*.pdb)'
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
-  
+
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
@@ -50,11 +50,23 @@ steps:
   displayName: 'NuGet pack'
   inputs:
     command: pack
-    packagesToPack: '**/*.csproj'
-  
+    packagesToPack: '/.csproj'
+
 - task: NuGetCommand@2
   displayName: 'NuGet push'
   inputs:
     command: push
     publishVstsFeed: 'FaradayContractFeed'
     allowPackageConflicts: true
+
+- task: CopyFiles@1
+  inputs:
+    SourceFolder: '$(Build.SourcesDirectory)'
+    Contents: '/$(BuildConfiguration)//?(.exe|.dll|.pdb)'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'FaradayContractFeed'
+    publishLocation: 'Container'
